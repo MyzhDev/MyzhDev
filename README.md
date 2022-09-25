@@ -1,6 +1,7 @@
 
 ![from_assets](https://github.com/MyzhDev/MyzhDev/blob/main/assets/BANNIERE%20GITHUB.png)
-<img src="https://github-readme-stats.vercel.app/api?username={MyzhDev}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MyzhDev&theme=dark" width="48%" >
+
 
 <!--
 
