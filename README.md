@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <!--
+
+from_assets](https://github.com/MyzhDev/MyzhDev/blob/main/assets/BANNIERE%20GITHUB.png)
 **MyzhDev/MyzhDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
