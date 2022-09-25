@@ -1,5 +1,5 @@
 
-[from_assets](https://github.com/MyzhDev/MyzhDev/blob/main/assets/BANNIERE%20GITHUB.png)
+![from_assets](https://github.com/MyzhDev/MyzhDev/blob/main/assets/BANNIERE%20GITHUB.png)
 
 <!--
 
